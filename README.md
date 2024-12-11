@@ -1,4 +1,5 @@
 # PCF - GridCard
+ Attempting to make it display multiple lines of text
  A PCF control to render a form subgrid (built specifically for single record grids) as a traditional list of fields in a section
 
  ![Grid Card Preview 1](https://github.com/jasonaalmeida/PCF_GridCard/blob/master/GridCard/images/current_active_quote.png)
